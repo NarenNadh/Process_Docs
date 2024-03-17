@@ -1,5 +1,5 @@
 # Process_Docs : For Windows Defender Onboarding with verification steps.
-# Steps to onboard windows server/2012R2/2016 to windows defender portal.
+# Steps to onboard windows server 2016 to windows defender portal.
 
 1. Enable windows defender feature
 2. Ensure latest Servicing stack update and Cumulative Update is installed on the server.
